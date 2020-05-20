@@ -1,28 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/fenghui/Projects/DesignPatterns-Samples/PubSubPattern/PubSubPattern.csproj": {}
+    "E:\\Project\\Person\\HueiFeng\\DesignPatterns-Samples\\PubSubPattern\\PubSubPattern.csproj": {}
   },
   "projects": {
-    "/Users/fenghui/Projects/DesignPatterns-Samples/PubSubPattern/PubSubPattern.csproj": {
+    "E:\\Project\\Person\\HueiFeng\\DesignPatterns-Samples\\PubSubPattern\\PubSubPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/fenghui/Projects/DesignPatterns-Samples/PubSubPattern/PubSubPattern.csproj",
+        "projectUniqueName": "E:\\Project\\Person\\HueiFeng\\DesignPatterns-Samples\\PubSubPattern\\PubSubPattern.csproj",
         "projectName": "PubSubPattern",
-        "projectPath": "/Users/fenghui/Projects/DesignPatterns-Samples/PubSubPattern/PubSubPattern.csproj",
-        "packagesPath": "/Users/fenghui/.nuget/packages/",
-        "outputPath": "/Users/fenghui/Projects/DesignPatterns-Samples/PubSubPattern/obj/",
+        "projectPath": "E:\\Project\\Person\\HueiFeng\\DesignPatterns-Samples\\PubSubPattern\\PubSubPattern.csproj",
+        "packagesPath": "C:\\Users\\HueiFeng\\.nuget\\packages\\",
+        "outputPath": "E:\\Project\\Person\\HueiFeng\\DesignPatterns-Samples\\PubSubPattern\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/fenghui/.config/NuGet/NuGet.Config"
+          "C:\\Users\\HueiFeng\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
